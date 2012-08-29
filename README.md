@@ -1,6 +1,8 @@
 Arche
 =====
 
+![Noah's Ark](http://s.juliendesrosiers.ca/Noahs_Ark.jpg)
+
 "But I will establish My covenant with you; and you shall go into the ark — you, your sons, your wife, and your sons’ wives with you. And of every living thing of all flesh you shall bring two of every sort into the ark, to keep them alive with you; they shall be male and female."
 -- Genesis 6:18,19
 
