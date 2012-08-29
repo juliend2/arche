@@ -116,7 +116,7 @@ function pluck($array, $property, $has_hashes = false) {
 }
 
 
-# I18n :
+// I18n :
 // ------------------------------------------------------------------
 
 function __($key) {
@@ -128,7 +128,7 @@ function _e($key) {
   echo __($key);
 }
 
-// Utility 
+// Utilities
 // ------------------------------------------------------------------
 
 // Takes any amount of any param types, and pretty print them.
@@ -166,7 +166,7 @@ function var_dump_ret($mixed = null) {
 }
 
 function logger($msg) {
-  $filename = BASE_PATH.'/../../log.txt';
+  $filename = BASE_PATH.'/log.txt';
   if (defined('LOG_LEVEL') && LOG_LEVEL == 1) {
     // open file 
     $fd = fopen($filename, "a"); 
